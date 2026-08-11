@@ -26,8 +26,8 @@ I'm expanding my web development background (Full-stack) into the Salesforce eco
 
 ### 🎓 Connect & Profiles
 
-[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/YOUR_TRAILHEAD_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/https:/joaolucasm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in//joão-lucas-marini-876277403)
 
 ---
 
