@@ -38,3 +38,7 @@ I'm expanding my web development background (Full-stack) into the Salesforce eco
   <img src="https://github-readme-stats.vercel.app/api?username=joaolucasmarini&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasmarini&layout=compact&theme=dark" alt="Top Languages" height="150"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/username/repository/main/animated-galaxy.gif" alt="Animated Spiral Galaxy" width="600px">
+</div>
